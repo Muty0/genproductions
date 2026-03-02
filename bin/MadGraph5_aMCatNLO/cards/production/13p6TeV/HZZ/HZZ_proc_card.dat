@@ -1,0 +1,6 @@
+import model loop_sm
+
+define p = g u c d s u~ c~ d~ s~
+generate p p > h z z / h @0
+
+output HZZ -nojpeg
